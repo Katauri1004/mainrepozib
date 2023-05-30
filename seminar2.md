@@ -41,6 +41,12 @@ git add .
 
 ## Изображения
 
+**Чтобы добавить изображения, воспользуйтесь следующей командой:**
+```
+![text about photo](ссылка на фото)
+```
 
+Пример:
 
-
+![text about photo](https://images.unsplash.com/photo-1685381547979-ae792dadd91a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1171&q=80)
+**Если своё фото - то указываем его название и расширение**
